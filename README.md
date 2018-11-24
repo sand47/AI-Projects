@@ -2,7 +2,7 @@
 
 This repository contains all my machine learning and deep learning codes for various datasets written in scikit learn for maching learning and keras & Pytorch for deep learning.
 
-## Machine learning contains the following datasets: 
+## Datasets for Machine Learning : 
 
 * [Salary prediction](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
 * [Social Network Ads prediciton](https://maven.apache.org/) - Dependency Management
