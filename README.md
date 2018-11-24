@@ -21,5 +21,7 @@ This repository contains all my machine learning and deep learning codes for var
 * [Imagenet(Transfer Learning)](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
 * [Google Stock Price](https://github.com/sand47/Machine-learning-and-deep-learning-/tree/master/Deep-learning/Supervised/RNN) - RNN
 * [Statement of Purpose generation using LSTM](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-* [Credit Card Application (Self Organzing map)] (https://github.com/sand47/Machine-learning-and-deep-learning-/tree/master/Deep-learning/Unsupervised/Self-Organizing-map/) - Customer class categorization 
+* [Credit Card Application](https://github.com/sand47/Machine-learning-and-deep-learning-/tree/master/Deep-learning/Unsupervised/Self-Organizing-map/) - Customer class categorization using Self organzing map 
 * [Movie rating ( Boltzmann_Machines)](https://github.com/sand47/Machine-learning-and-deep-learning-/tree/master/Deep-learning/Unsupervised/AutoEncoders) - Both Autoencoder and Boltzmann machine 
+
+
