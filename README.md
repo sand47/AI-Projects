@@ -4,9 +4,9 @@ This repository contains all my machine learning and deep learning codes for var
 
 ## Datasets for Machine Learning : 
 
-* [Salary prediction](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Social Network Ads prediciton](https://maven.apache.org/) - Dependency Management
-* [To be added](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Salary prediction](https://github.com/sand47/Machine-learning-and-deep-learning-/tree/master/machine-learning/Regression) - Regression
+* [Social Network Ads prediciton](https://github.com/sand47/Machine-learning-and-deep-learning-/tree/master/machine-learning/Classification) - Classification
+* [50_startup_profit](https://github.com/sand47/Machine-learning-and-deep-learning-/tree/master/machine-learning/Regression/Multiple%20Linear%20Regression) - Mutiple linear regression
 
 ## Deep learning datasets: 
 
