@@ -21,5 +21,10 @@ python inference.py
 
 # Sample Output 
 
+```
 Seed Text : "internship at"
+```
+```
 Generated text : " a fullfledged understanding of my opinion and further new experiences so as to push myself and broaden my horizons for example in 
+```
+
