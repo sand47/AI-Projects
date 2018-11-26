@@ -2,16 +2,18 @@ This code is used to generate a paragraph on of text based on your seed text and
 results. 
 
 Dependences : 
-Keras (tensorflow-gpu)
-Numpy
+*Keras (tensorflow-gpu)
+*Numpy
+
+Make sure you change the text file name in the code
 
 # Cleaning data: 
 
-python clean.py --txt sop_sample.txt
+python clean.py 
 
 # Training 
 
-python Training.py --txt sop_converted.txt
+python Training.py 
 
 # Inference
 Add your seed text line in the code
