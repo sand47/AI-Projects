@@ -13,6 +13,7 @@ This repository contains all my machine learning and deep learning codes for var
 * [Statement of Purpose generation using LSTM](https://github.com/sand47/Machine-learning-and-deep-learning-/tree/master/Deep-learning/Supervised/Sop_generator) - Text generator using LSTM
 * [Style Transfer](https://github.com/sand47/Machine-learning-and-deep-learning-/tree/master/Deep-learning/Supervised/Sop_generator) - Pytorch code for style transfer
 * [GAN for generating number](https://github.com/sand47/Machine-learning-and-deep-learning-/tree/master/Deep-learning/Supervised/Sop_generator) - Number Image Generation 
+* [Facial Recognition](https://github.com/sand47/Machine-learning-and-deep-learning-/tree/master/Deep-learning/Supervised/Sop_generator) - Custome face recognition using Deep Learning and opencv 
 * [Bank Churn Modelling](https://github.com/sand47/Machine-learning-and-deep-learning-/tree/master/Deep-learning/Supervised/ANN) - Bank customer churn classification
 * [Handwritten Mnist](https://maven.apache.org/) - Dependency Management
 * [Fashion Mnist](https://rometools.github.io/rome/) - Used to generate RSS Feeds
