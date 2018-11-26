@@ -16,7 +16,7 @@ Make sure your image data is not big as you cannot train it thus the resize_imag
 # Data Collection
 
 ```
-python data_collect.py --cascade haarcascade_frontalface_default.xml --output dataset/kannan
+python data_collect.py --cascade haarcascade_frontalface_default.xml --output dataset/person_name
 ```
 # Training 
 
