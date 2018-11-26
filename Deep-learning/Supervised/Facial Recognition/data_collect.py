@@ -1,4 +1,4 @@
-# python build_face_dataset.py --cascade haarcascade_frontalface_default.xml --output dataset/kannan
+# python data_collect.py --cascade haarcascade_frontalface_default.xml --output dataset/kannan
 
 # import the necessary packages
 from imutils.video import VideoStream
