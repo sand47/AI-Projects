@@ -1,6 +1,6 @@
 # GAN
 
-The code is used to generate digit number using tensorflow
+This code is used to generate digit number using tensorflow
 
 # GAN Blogs
 
