@@ -15,12 +15,12 @@ This repository contains all my machine learning and deep learning codes for var
 * [GAN for generating number](https://github.com/sand47/Machine-learning-and-deep-learning-/tree/master/Deep-learning/Unsupervised/GAN) - Digit Generation 
 * [Facial Recognition](https://github.com/sand47/Machine-learning-and-deep-learning-/tree/master/Deep-learning/Supervised/Facial%20Recognition) - Custome face recognition using Deep Learning and OpenCV 
 * [Bank Churn Modelling](https://github.com/sand47/Machine-learning-and-deep-learning-/tree/master/Deep-learning/Supervised/ANN) - Bank customer churn classification
-* [Handwritten Mnist](https://maven.apache.org/) - Dependency Management
-* [Fashion Mnist](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Handwritten Mnist](https://github.com/sand47/Machine-learning-and-deep-learning-/tree/master/Deep-learning/Supervised/Mnist) - Pytorch based CNN image classifier
+* [Fashion Mnist](https://github.com/sand47/Machine-learning-and-deep-learning-/tree/master/Deep-learning/Supervised/Mnist) - Pytorch based dress classifier
 
 * [Dogs vs Cat](https://github.com/sand47/Machine-learning-and-deep-learning-/tree/master/Deep-learning/Supervised/CNN) - CNN 
 * [COCO](https://maven.apache.org/) - Dependency Management
-* [CIFAR-100](https://github.com/sand47/Machine-learning-and-deep-learning-/tree/master/Deep-learning/Supervised/CIFAR-100) - Pytorch CNN code
+* [CIFAR-100](https://github.com/sand47/Machine-learning-and-deep-learning-/tree/master/Deep-learning/Supervised/CIFAR-100) - Pytorch based CNN code
 
 * [Imagenet(Transfer Learning)](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
 * [Google Stock Price](https://github.com/sand47/Machine-learning-and-deep-learning-/tree/master/Deep-learning/Supervised/RNN) - RNN
