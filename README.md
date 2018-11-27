@@ -20,7 +20,7 @@ This repository contains all my machine learning and deep learning codes for var
 
 * [Dogs vs Cat](https://github.com/sand47/Machine-learning-and-deep-learning-/tree/master/Deep-learning/Supervised/CNN) - CNN 
 * [COCO](https://maven.apache.org/) - Dependency Management
-* [CIFAR-100](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [CIFAR-100](https://github.com/sand47/Machine-learning-and-deep-learning-/tree/master/Deep-learning/Supervised/CIFAR-100) - Pytorch CNN code
 
 * [Imagenet(Transfer Learning)](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
 * [Google Stock Price](https://github.com/sand47/Machine-learning-and-deep-learning-/tree/master/Deep-learning/Supervised/RNN) - RNN
