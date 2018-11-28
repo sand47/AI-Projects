@@ -14,7 +14,7 @@ The tutorial is written in Python, with the Tensorflow library, so it would be g
 
 1. First step is always to clone the repository.
 ```
-git clone https://github.com/uclaacmai/Generative-Adversarial-Network-Tutorial.git
+git clone https://github.com/sand47/Machine-learning-and-deep-learning-/tree/master/Deep-learning/Unsupervised/GAN
 ```
 2.Next, we want to make sure we have Jupyter Notebook installed. You can either follow one of two paths. You can either install Anaconda (which installs Python, Jupyter Notebook, and a bunch of other useful computing libraries) or use pip.
 To install Anaconda, take a look at their website, which has some pretty great documentation.
