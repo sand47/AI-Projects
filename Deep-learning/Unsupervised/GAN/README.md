@@ -37,10 +37,10 @@ Finally, run the following command and a new tab in your browser with the Jupyte
 jupyter notebook
 
 #More GAN Resources
--The original paper written by Ian Goodfellow in 2014.
-- Siraj Raval's video tutorial on GANs (Really fun video)
-- Ian Godfellow's keynote on GANs (More of a technical video)
-- Brandon Amos's image completion blog post
-- Blog post on using GANs in video games.
-- Andrej Karpathy's blog post with GAN visualizations.
+-The original [paper](https://arxiv.org/pdf/1406.2661.pdf) written by Ian Goodfellow in 2014.
+- Siraj Raval's [video](https://www.youtube.com/watch?v=deyOX6Mt_As) tutorial on GANs (Really fun video)
+- Ian Godfellow's [keynote](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Generative-Adversarial-Networks) on GANs (More of a technical video)
+- Brandon Amos's image completion [blog](https://bamos.github.io/2016/08/09/deep-completion/) post
+- [Blog](https://medium.com/@ageitgey/abusing-generative-adversarial-networks-to-make-8-bit-pixel-art-e45d9b96cee7) post on using GANs in video games.
+- Andrej Karpathy's [blog](https://cs.stanford.edu/people/karpathy/gan/) post with GAN visualizations.
 
