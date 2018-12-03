@@ -1,4 +1,4 @@
-# Machine-Learning ( under maintenance)
+# Machine-Learning
 
 This repository contains all my machine learning and deep learning codes for various datasets written in scikit learn for maching learning and keras & Pytorch for deep learning.
 
@@ -16,13 +16,13 @@ This repository contains all my machine learning and deep learning codes for var
 * [Facial Recognition](https://github.com/sand47/Machine-learning-and-deep-learning-/tree/master/Deep-learning/Supervised/Facial%20Recognition) - Custome face recognition using Deep Learning and OpenCV 
 * [Bank Churn Modelling](https://github.com/sand47/Machine-learning-and-deep-learning-/tree/master/Deep-learning/Supervised/ANN) - Bank customer churn classification
 * [Handwritten Mnist](https://github.com/sand47/Machine-learning-and-deep-learning-/tree/master/Deep-learning/Supervised/Mnist) - Pytorch based CNN image classifier
-* [Fashion Mnist](https://github.com/sand47/Machine-learning-and-deep-learning-/tree/master/Deep-learning/Supervised/Mnist) - Pytorch based dress classifier
+* [Fashion Mnist](https://github.com/sand47/Machine-learning-and-deep-learning-/tree/master/Deep-learning/Supervised/Mnist) - Yet to be added
 
 * [Dogs vs Cat](https://github.com/sand47/Machine-learning-and-deep-learning-/tree/master/Deep-learning/Supervised/CNN) - CNN 
-* [COCO](https://maven.apache.org/) - Dependency Management
+* [COCO](https://maven.apache.org/) - Yet to be added
 * [CIFAR-100](https://github.com/sand47/Machine-learning-and-deep-learning-/tree/master/Deep-learning/Supervised/CIFAR-100) - Pytorch based CNN code
 
-* [Imagenet(Transfer Learning)](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Imagenet(Transfer Learning)](http://www.dropwizard.io/1.0.2/docs/) - Yet to be added
 * [Google Stock Price](https://github.com/sand47/Machine-learning-and-deep-learning-/tree/master/Deep-learning/Supervised/RNN) - RNN
 
 * [Credit Card Application](https://github.com/sand47/Machine-learning-and-deep-learning-/tree/master/Deep-learning/Unsupervised/Self-Organizing-map/) - Customer class categorization using Self organzing map 
