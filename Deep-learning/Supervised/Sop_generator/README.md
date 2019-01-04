@@ -20,12 +20,13 @@ python Training.py
 <br>
 https://drive.google.com/drive/folders/1zNn8-SAJc4L6FYfmpgQQ6lHrQMwdlABs?usp=sharing
 <br>
-# Inference
+
+## Inference
 Add your seed text line in the code
 
 python inference.py 
 
-# Sample Output 
+## Sample Output 
 
 ```
 Seed Text : "internship at"
