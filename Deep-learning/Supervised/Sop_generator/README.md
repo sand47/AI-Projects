@@ -14,6 +14,11 @@ python clean.py
 
 python Training.py 
 
+# Trained Model
+
+<br>
+https://drive.google.com/drive/folders/1zNn8-SAJc4L6FYfmpgQQ6lHrQMwdlABs?usp=sharing
+<br>
 # Inference
 Add your seed text line in the code
 
