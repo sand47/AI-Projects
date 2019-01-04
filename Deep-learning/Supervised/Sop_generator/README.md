@@ -1,9 +1,10 @@
 This code is used to generate a paragraph on of text based on your seed text and its recommended to have at least 10k words or 1 lakhs to get good
 results. 
 
-Dependences : 
+## Dependences : 
+<br>
 Keras (tensorflow-gpu) and Numpy
-
+<br>
 Make sure you change the text file name in the code
 
 # Cleaning data: 
