@@ -11,7 +11,7 @@ This repository contains all my machine learning and deep learning codes for var
 ## Deep learning datasets: 
 
 * [Statement of Purpose generation using LSTM](https://github.com/sand47/Machine-learning-and-deep-learning-/tree/master/Deep-learning/Supervised/Sop_generator) - Text generator using LSTM
-* [Malaria Detection](https://github.com/sand47/Machine-learning-and-deep-learning-/tree/master/Deep-learning/Supervised/Sop_generator) - Yet to be added
+* [Malaria Detection](https://github.com/sand47/Malaria-Detection-) - Transfer learning Pytorch
 * [Style Transfer](https://github.com/sand47/Machine-learning-and-deep-learning-/tree/master/Deep-learning/Supervised/Sop_generator) - Pytorch code for style transfer
 * [GAN for generating number](https://github.com/sand47/Machine-learning-and-deep-learning-/tree/master/Deep-learning/Unsupervised/GAN) - Digit Generation 
 * [Facial Recognition](https://github.com/sand47/Machine-learning-and-deep-learning-/tree/master/Deep-learning/Supervised/Facial%20Recognition) - Custome face recognition using Deep Learning and OpenCV 
