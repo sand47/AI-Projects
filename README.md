@@ -11,6 +11,10 @@ This repository contains all my machine learning and deep learning codes for var
 ## Deep learning datasets: 
 
 * [Statement of Purpose generation using LSTM](https://github.com/sand47/Machine-learning-and-deep-learning-/tree/master/Deep-learning/Supervised/Sop_generator) - Text generator using LSTM
+* [Udacity sentiment analysis project](https://github.com/sand47/udacity-project-sentiment_analysis) - Udacity sentiment analysis project
+* [Face image generator](https://github.com/sand47/udacity-face-generation) -Face image generation using DCGAN 
+* [TV Script generator](https://github.com/sand47/udacity-project-tv-scripts) - TV Script generation using LSTM
+
 * [Boltzmann-machine-for-movie-recommender-System](https://github.com/sand47/Boltzmann-machine-for-movie-recommender-System/blob/master/README.md) - Movie recommendation using RBM
 * [Malaria Detection](https://github.com/sand47/Malaria-Detection-) - Transfer learning Pytorch
 * [Style Transfer](https://github.com/sand47/Machine-learning-and-deep-learning-/tree/master/Deep-learning/Supervised/Sop_generator) - Pytorch code for style transfer
