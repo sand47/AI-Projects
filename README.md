@@ -2,13 +2,13 @@
 
 This repository contains all my machine learning and deep learning codes for various datasets written in scikit learn for maching learning and keras & Pytorch for deep learning.
 
-## Datasets for Machine Learning : 
+## Machine Learning Problems : 
 
 * [Salary prediction](https://github.com/sand47/Machine-learning-and-deep-learning-/tree/master/machine-learning/Regression) - Regression
 * [Social Network Ads prediciton](https://github.com/sand47/Machine-learning-and-deep-learning-/tree/master/machine-learning/Classification) - Classification
 * [50_startup_profit](https://github.com/sand47/Machine-learning-and-deep-learning-/tree/master/machine-learning/Regression/Multiple%20Linear%20Regression) - Mutiple linear regression
 
-## Deep learning datasets: 
+## Deep learning Problems: 
 
 * [Statement of Purpose generation using LSTM](https://github.com/sand47/Machine-learning-and-deep-learning-/tree/master/Deep-learning/Supervised/Sop_generator) - Text generator using LSTM
 * [Udacity sentiment analysis project](https://github.com/sand47/udacity-project-sentiment_analysis) - Udacity sentiment analysis project
