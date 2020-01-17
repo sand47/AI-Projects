@@ -12,6 +12,7 @@ This repository contains all my machine learning and deep learning codes for var
 * [List of all hackathon projects](https://github.com/sand47/Hackathon-Projects-)
 
 ## Deep learning Problems: 
+* [Outfit Recommendation](https://github.com/sand47/Outfit-Recomendation)- Men outfit recommendation using KNN and VGG. 
 * [Navigation](https://github.com/sand47/Udacity-drlnd-navigation) - Udacity Deep reinforcement learning navigation project 
 * [Robot Arm controller](https://github.com/sand47/DRLND-Continuous-Control) - Udacity Deep reinforcement learning Moving double-jointed arm to target locations using DDGP  
 * [Multi-agent playing tennis](https://github.com/sand47/DRLND-Collaboration-Competion) - Udacity Deep reinforcement learning multi-agent using MADDPG  
