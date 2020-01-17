@@ -18,7 +18,7 @@ This repository contains all my machine learning and deep learning codes for var
 * [Navigation](https://github.com/sand47/Udacity-drlnd-navigation) - Udacity Deep reinforcement learning navigation project 
 * [Robot Arm controller](https://github.com/sand47/DRLND-Continuous-Control) - Udacity Deep reinforcement learning Moving double-jointed arm to target locations using DDGP  
 * [Multi-agent playing tennis](https://github.com/sand47/DRLND-Collaboration-Competion) - Udacity Deep reinforcement learning multi-agent using MADDPG  
-* [Udacity Face image generator](https://github.com/sand47/udacity-face-generation) -Face image generation using DCGAN 
+* [Udacity Face image generator](https://github.com/sand47/udacity-face-generation-) -Face image generation using DCGAN 
 * [Udacity TV Script generator](https://github.com/sand47/udacity-project-tv-scripts) - TV Script generation using LSTM
 * [Boltzmann-machine-for-movie-recommender-System](https://github.com/sand47/Boltzmann-machine-for-movie-recommender-System/blob/master/README.md) - Movie recommendation using RBM
 * [Malaria Detection](https://github.com/sand47/Malaria-Detection-) - Transfer learning Pytorch
