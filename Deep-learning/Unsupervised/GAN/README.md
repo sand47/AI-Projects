@@ -6,7 +6,6 @@ The analogy used in the paper is that the generative model is like “a team of 
 
 As the models train through alternating optimization, both methods are improved until a point where the “counterfeits are indistinguishable from the genuine articles”.
 
-The tutorial is written in Python, with the Tensorflow library, so it would be good to have familiarity with Tensorflow before taking a look at this tutorial.
 
 # How to Use Jupyter Notebooks
 
