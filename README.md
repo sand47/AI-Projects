@@ -8,6 +8,9 @@ This repository contains all my machine learning and deep learning codes for var
 * [Social Network Ads prediciton](https://github.com/sand47/Machine-learning-and-deep-learning-/tree/master/machine-learning/Classification) - Classification
 * [50_startup_profit](https://github.com/sand47/Machine-learning-and-deep-learning-/tree/master/machine-learning/Regression/Multiple%20Linear%20Regression) - Mutiple linear regression
 
+## Hackathon Projects :
+* [List of all hackathon projects](https://github.com/sand47/Hackathon-Projects-)
+
 ## Deep learning Problems: 
 * [Navigation](https://github.com/sand47/Udacity-drlnd-navigation) - Udacity Deep reinforcement learning navigation project 
 * [Robot Arm controller](https://github.com/sand47/DRLND-Continuous-Control) - Udacity Deep reinforcement learning Moving double-jointed arm to target locations using DDGP  
