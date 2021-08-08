@@ -13,7 +13,10 @@ This repository contains all my machine learning and deep learning codes for var
 * [List of all hackathon projects](https://github.com/sand47/Hackathon-Projects-)
 
 ## Hobby deep learning projects: 
-* [Outfit Recommendation](https://github.com/sand47/Outfit-Recomendation)- Men outfit recommendation using KNN and VGG. 
+* [CUDA Accelerated Navie Bayes](https://github.com/sand47/me759-final-project)- CUDA and OpenMP Accelerated Implementation of Naive Bayes and it’s variants
+* [Remastering Starcraft Video](https://github.com/sand47/RESGAN)- Inspried from Pix2Pix RESGAN a GAN based model
+* [Autonomous Drone Maintenance and Surveillance](https://github.com/sand47/Autonomous-Drone-Surveillance-and-Machinery-Maintenance)- Real-time video surveillance and machinery maintenance
+* [Fairness in SVM](https://github.com/sand47/Fairness-SVM)- Analysis of model fariness in SVM model
 * [Statement of Purpose generation using LSTM](https://github.com/sand47/Machine-learning-and-deep-learning-/tree/master/Deep-learning/Supervised/Sop_generator) - Text generator using LSTM
 * [Boltzmann-machine-for-movie-recommender-System](https://github.com/sand47/Boltzmann-machine-for-movie-recommender-System/blob/master/README.md) - Movie recommendation using RBM
 * [Movie rating ( Boltzmann_Machines)](https://github.com/sand47/Machine-learning-and-deep-learning-/tree/master/Deep-learning/Unsupervised/AutoEncoders) - Both Autoencoder and Boltzmann machine 
